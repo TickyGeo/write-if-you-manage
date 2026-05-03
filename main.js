@@ -76,7 +76,7 @@ btn[1].onclick = () => {
 };
 
 btn[2].onclick = () => {
-    close();
+    window.location.href = 'https://open.spotify.com/artist/5hYOtJvjzHs0C3Vx1EghFW?si=LCoPXgoBRza-KIPDSTangQ';
 };
 
 closeBtn.onclick = () => {
